@@ -25,12 +25,14 @@
 // }
 
 
-let index = 18
-while (index > 0){
-    if(index % 2 !==0){
-        index --
-        break
-    }
-    console.log(`Index: ${index}`)
-    index --
-}
+// let index = 18
+// while (index > 0){
+//     if(index % 2 !==0){
+//         index --
+//         break
+//     }
+//     console.log(`Index: ${index}`)
+//     index --
+// }
+
+
